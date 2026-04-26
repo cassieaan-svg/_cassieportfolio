@@ -213,7 +213,7 @@ section { padding: 100px 0; }
 }
 
 .hero-tagline {
-  font-size: clamp(32px, 5.5vw, 64px);
+  font-size: clamp(20px, 3vw, 40px);
   font-weight: 600;
   color: var(--slate);
   line-height: 1.1;
