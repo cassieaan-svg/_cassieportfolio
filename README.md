@@ -2,7 +2,7 @@
 
 Personal portfolio website for Christy-Annie Bassey, Health Data Analyst and AI Automation specialist based in Lagos, Nigeria.
 
-**Live site:** [cassiebassey.netlify.app](https://cassiebassey.netlify.app)
+**Live site:** [christybassey.netlify.app](https://chtistybassey.netlify.app)
 
 ---
 
