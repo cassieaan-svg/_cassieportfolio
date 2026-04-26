@@ -1,16 +1,16 @@
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --navy:        #0a192f;
-  --navy-light:  #112240;
-  --navy-mid:    #233554;
-  --teal:        #64ffda;
-  --teal-dim:    rgba(100,255,218,0.1);
-  --teal-dim2:   rgba(100,255,218,0.05);
-  --white:       #ccd6f6;
-  --white-light: #e6f1ff;
-  --slate:       #8892b0;
-  --slate-light: #a8b2d8;
+  --navy:        #0d0d14;
+  --navy-light:  #131520;
+  --navy-mid:    #1a2030;
+  --teal:        #4fc3f7;
+  --teal-dim:    rgba(79,195,247,0.1);
+  --teal-dim2:   rgba(79,195,247,0.05);
+  --white:       #b0bec5;
+  --white-light: #e8f4f8;
+  --slate:       #78909c;
+  --slate-light: #b0bec5;
   --font-mono:   'Fira Code', monospace;
   --font-sans:   'Inter', sans-serif;
   --ease:        cubic-bezier(0.645, 0.045, 0.355, 1);
