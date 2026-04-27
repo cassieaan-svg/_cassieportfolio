@@ -721,10 +721,11 @@ footer a { color: var(--teal); }
   .hamburger { display: flex; }
   .about-grid { grid-template-columns: 1fr; }
   .about-photo-col { order: -1; }
-  .exp-tabs { flex-direction: row; overflow-x: auto; border-left: none; border-bottom: 2px solid var(--navy-mid); }
-  .exp-tab { border-left: none; border-bottom: 2px solid transparent; margin: 0 0 -2px; }
-  .exp-tab.active { border-left-color: transparent; border-bottom-color: var(--teal); }
-  .exp-content { padding: 20px 0 0; }
+  .exp-container { flex-direction: column; }
+  .exp-tabs { flex-direction: row; overflow-x: auto; border-left: none; border-bottom: 2px solid var(--navy-mid); min-width: unset; }
+  .exp-tab { border-left: none; border-bottom: 2px solid transparent; margin: 0 0 -2px; padding: 10px 18px; }
+  .exp-tab.active { border-left: none; border-bottom: 2px solid var(--teal); background: var(--teal-dim2); }
+  .exp-content { padding: 24px 0 0; }
   .feat-card, .feat-card.flip { grid-template-columns: 1fr; }
   .feat-card.flip .feat-img { order: 0; }
   .feat-card.flip .feat-info { order: 0; text-align: left; }
